@@ -1,6 +1,7 @@
-### Learn by Observation: Imitation Learning for Drone Patrolling from Videos of A Human Navigator
+# Learn by Observation: Imitation Learning for Drone Patrolling from Videos of A Human Navigator
 
-Project: [Original github repository](https://github.com/uzh-rpg/rpg_public_dronet)
+Dronet:  [Original github repository](https://github.com/uzh-rpg/rpg_public_dronet)
+Our page:  [www.yfan.site](http://www.yfan.site/UAVPatrol.html)
 
 ## Introduction
 ### Background
