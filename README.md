@@ -70,7 +70,7 @@ Dependencies:
 * Python gflags
 
 ### Usage
-   Set parameter at `common_flag.py`,parameter has `Epoch`,`training_dir, validation_dir and experiment_dir`,`pretrained model`,`batch_size` or add args `python cnn.py [Args]`
+   Set parameter at `common_flag.py`,parameter has `Epoch`,`training_dir, validation_dir and  experiment_dir`,`pretrained model`,`batch_size` or add args `python cnn.py [Args]`
 
 ## Reference
 Project: [Original github repository](https://github.com/uzh-rpg/rpg_public_dronet)
